@@ -1,5 +1,5 @@
 # JAVA_Course_Works
-homeworks of Java course
+homeworks of Java course at Nankai University in 2018.
 
 相关作业内容：
 - 作业一 质数判断
