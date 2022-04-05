@@ -1,5 +1,6 @@
 # JAVA_Course_Works
 homeworks of Java course at Nankai University in 2018.
+
 2018年南开大学Java课程作业内容：
 - 作业一 质数判断
 - 作业二 线段相关操作
